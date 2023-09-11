@@ -168,3 +168,30 @@ img {
         font-size:.8em;
     }
 }
+@media (min-width:1000px){
+    .sub_parent_container {
+        width:1000px;
+    }
+    p {
+        font-size:.9em;
+    }
+    .child_container_one {
+        width:350px;
+    }
+    .container_one_header {
+        font-size:2.3em;
+    }
+    .child_container_two{
+        width:550px;
+    }
+   .rating_container {
+       width:73%;
+   }
+   .child_container_three {
+       width:300px;
+       height:auto;
+   }
+   .testimonial_parent_container {
+       width:1000px;
+   }
+}
