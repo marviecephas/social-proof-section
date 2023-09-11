@@ -122,7 +122,7 @@ img {
         display:flex;
     }
     .child_container_one {
-        width:400px;
+        width:350px;
     }
     .child_container_one>*{
         text-align:left;
@@ -133,12 +133,12 @@ img {
         margin:0 0 30px;
     }
     .child_container_two{
-        width:400px;
+        width:450px;
         display:flex;
         flex-direction:column;
     }
     .rating_container {
-        width:90%;
+        width:85%;
         display:flex;
         align-items:center;
     }
